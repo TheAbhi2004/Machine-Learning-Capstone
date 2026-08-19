@@ -88,3 +88,36 @@ DATE        SALES
 1976-01-01  864.600
 1976-02-01  973.300
 1976-03-01  1216.100
+
+Time-Series-Analysis-and-Forecasting/
+│
+├── 📂 data/
+│   ├── LTOTALNSA.xls
+│   ├── auto_1.xls
+│   ├── auto_1.npy
+│   ├── auto_2.xls
+│   ├── auto_2.npy
+│   ├── churndata.pkl
+│   ├── co2-ppm-mauna-loa-19651980.xls
+│   ├── dataset_A.npy
+│   ├── dataset_B.npy
+│   ├── dataset_SNS_1.npy
+│   ├── dataset_SNS_2.npy
+│   ├── diagnostics_3_0.png
+│   ├── mean-monthly-temperature-1907-19.xls
+│   ├── Sample - Superstore.xls
+│   ├── smooth_1.npy
+│   └── ...
+│
+├── 📂 FiveCitiesPM/
+│   ├── Beijing.xls
+│   ├── Chengdu.xls
+│   ├── Guangzhou.xls
+│   ├── Shanghai.xls
+│   └── Shenyang.xls
+│
+├── 📓 Final_Project.ipynb
+│
+├── 📄 README.md
+│
+└── 📄 requirements.txt
