@@ -89,20 +89,6 @@ DATE        SALES
 1976-02-01  973.300
 1976-03-01  1216.100
 
-# 👨‍💻 Author
-
-## Abhishek Pal
-
-**B.Tech – Information Technology**  
-**Data Science & AI/ML**
-
-This project was developed as part of the **IBM Machine Learning Professional Certificate – Specialized Models: Time Series and Survival Analysis**.
-
-### 🔗 Connect With Me
-
-- **GitHub:** [Abhishek Pal](https://github.com/TheAbhi2004)
-- **LinkedIn:** [Abhishek Pal](https://in.linkedin.com/in/abhishek-pal-355b0231b)
-
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star!
