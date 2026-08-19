@@ -89,35 +89,20 @@ DATE        SALES
 1976-02-01  973.300
 1976-03-01  1216.100
 
-Time-Series-Analysis-and-Forecasting/
-│
-├── 📂 data/
-│   ├── LTOTALNSA.xls
-│   ├── auto_1.xls
-│   ├── auto_1.npy
-│   ├── auto_2.xls
-│   ├── auto_2.npy
-│   ├── churndata.pkl
-│   ├── co2-ppm-mauna-loa-19651980.xls
-│   ├── dataset_A.npy
-│   ├── dataset_B.npy
-│   ├── dataset_SNS_1.npy
-│   ├── dataset_SNS_2.npy
-│   ├── diagnostics_3_0.png
-│   ├── mean-monthly-temperature-1907-19.xls
-│   ├── Sample - Superstore.xls
-│   ├── smooth_1.npy
-│   └── ...
-│
-├── 📂 FiveCitiesPM/
-│   ├── Beijing.xls
-│   ├── Chengdu.xls
-│   ├── Guangzhou.xls
-│   ├── Shanghai.xls
-│   └── Shenyang.xls
-│
-├── 📓 Final_Project.ipynb
-│
-├── 📄 README.md
-│
-└── 📄 requirements.txt
+# 👨‍💻 Author
+
+## Abhishek Pal
+
+**B.Tech – Information Technology**  
+**Data Science & AI/ML**
+
+This project was developed as part of the **IBM Machine Learning Professional Certificate – Specialized Models: Time Series and Survival Analysis**.
+
+### 🔗 Connect With Me
+
+- **GitHub:** [Abhishek Pal](https://github.com/TheAbhi2004)
+- **LinkedIn:** [Abhishek Pal](https://in.linkedin.com/in/abhishek-pal-355b0231b)
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
